@@ -1,5 +1,7 @@
 # bitcoinsv-testnet-box
 
+Hi I have hacked this from the original fork and will do polishing, althogh testnet is used throughout the name of the project it should really be called regtest, i.e. a private network for debugging your apps 
+
 Create your own private bitcoin testnet
 
 You must have `bitcoind` and `bitcoin-cli` installed on your system and in the
